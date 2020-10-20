@@ -1,0 +1,28 @@
+.style2 {
+	font-family: "Tempus Sans ITC";
+	font-size: 16px;
+	color: #CCFF00;
+}
+.style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #CCFF00;
+}
+
+a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #339900;
+	text-decoration: none;
+}
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #003300;
+	text-decoration: none;
+	filter: Glow(Color=#ccff00, Strength=100);
+}
